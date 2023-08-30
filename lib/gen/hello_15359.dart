@@ -1,0 +1,10 @@
+class Hello_15359 {
+  void hello(){}
+  void hi(){}
+  void nihao(){}
+}
+class Aaaaaa_15359 {
+  void hello(){}
+  void hi(){}
+  void nihao(){}
+}
